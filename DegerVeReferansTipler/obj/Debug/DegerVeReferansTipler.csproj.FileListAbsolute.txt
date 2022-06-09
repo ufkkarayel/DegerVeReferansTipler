@@ -1,0 +1,8 @@
+C:\Users\ufkka\Desktop\Kodlamaio\DegerVeReferansTipler\bin\Debug\DegerVeReferansTipler.exe.config
+C:\Users\ufkka\Desktop\Kodlamaio\DegerVeReferansTipler\bin\Debug\DegerVeReferansTipler.exe
+C:\Users\ufkka\Desktop\Kodlamaio\DegerVeReferansTipler\bin\Debug\DegerVeReferansTipler.pdb
+C:\Users\ufkka\Desktop\Kodlamaio\DegerVeReferansTipler\obj\Debug\DegerVeReferansTipler.csproj.AssemblyReference.cache
+C:\Users\ufkka\Desktop\Kodlamaio\DegerVeReferansTipler\obj\Debug\DegerVeReferansTipler.csproj.SuggestedBindingRedirects.cache
+C:\Users\ufkka\Desktop\Kodlamaio\DegerVeReferansTipler\obj\Debug\DegerVeReferansTipler.csproj.CoreCompileInputs.cache
+C:\Users\ufkka\Desktop\Kodlamaio\DegerVeReferansTipler\obj\Debug\DegerVeReferansTipler.exe
+C:\Users\ufkka\Desktop\Kodlamaio\DegerVeReferansTipler\obj\Debug\DegerVeReferansTipler.pdb
